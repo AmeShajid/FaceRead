@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tensorflow-models/facemesh": "^0.0.5",
+    "@tensorflow/tfjs": "^4.19.0",
+    "react-webcam": "^7.2.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
+}
